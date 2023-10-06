@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BallTestProjectF</string>
     <string name="start">Старт</string>
+    <string name="_1_00">1:00</string>
 </resources>
